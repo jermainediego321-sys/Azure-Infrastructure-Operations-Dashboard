@@ -1,8 +1,7 @@
 # Azure-Infrastructure-Operations-Dashboard
 A dashboard with real time logs &amp; cost visibility.
-# Azure Infrastructure Operations Dashboard
 
-## Overview
+Overview
 
 This project demonstrates the design and implementation of an Azure Operations Dashboard used to monitor and manage cloud infrastructure.
 
